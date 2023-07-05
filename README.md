@@ -1,2 +1,2 @@
-# Introduction-to-machine-learning
+# IML
 Hands on submission
